@@ -1,0 +1,25 @@
+{
+  "name": "stackts",
+  "description": "In computer science, a stack is an abstract data type that serves as a collection of elements, with two main principal operations:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvg1989/stackts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvg1989/stackts/issues"
+  },
+  "homepage": "https://github.com/mvg1989/stackts#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "eslint": "^8.13.0"
+  }
+}
